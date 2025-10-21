@@ -8,11 +8,12 @@ wurde die Anwendung mit Hilfe von Capacitor in eine
 Android-.apk-Datei umgewandelt und kann auf allen gängigen
 Android-Smartphones installiert werden.
 
-Screenshot: 
+Screenshots: 
 ---------------------------
 ![alt text](app-screenshots/Einkaufsliste1.png)
 ![alt text](app-screenshots/Einkaufsliste2.png)
 ![alt text](app-screenshots/Einkaufsliste3.png)
 ![alt text](app-screenshots/Einkaufsliste4.png)
 ![alt text](app-screenshots/Einkaufsliste5.png)
+![alt text](app-screenshots/Einkaufsliste6.png)
 + auch im Ordner "app-screenshots"
