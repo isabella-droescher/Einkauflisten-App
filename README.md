@@ -10,5 +10,9 @@ Android-Smartphones installiert werden.
 
 Screenshot: 
 ---------------------------
+![alt text](app-screenshots/Einkaufsliste1.png)
 ![alt text](app-screenshots/Einkaufsliste2.png)
-+ weitere im Ordner "app-screenshots"
+![alt text](app-screenshots/Einkaufsliste3.png)
+![alt text](app-screenshots/Einkaufsliste4.png)
+![alt text](app-screenshots/Einkaufsliste5.png)
++ auch im Ordner "app-screenshots"
