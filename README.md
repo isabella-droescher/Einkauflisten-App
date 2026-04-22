@@ -1,4 +1,4 @@
-Meine Einkaufsliste App
+Meine Einkaufslisten App
 
 UI/UX Konzept: 
 ---------------------------
