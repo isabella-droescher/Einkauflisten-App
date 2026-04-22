@@ -19,4 +19,4 @@ Menuansicht einer Liste - Alle Einträge löschen:
 <img width="1796" height="1419" alt="Menuansicht - Alle Einträge löschen" src="https://github.com/user-attachments/assets/affcace6-4a3b-4a10-81d2-71ca55312f38" />
 
 
-+ auch im Ordner "app-screenshots"
++ auch im Ordner "ui-ux-concept"
