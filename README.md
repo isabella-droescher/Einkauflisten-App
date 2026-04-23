@@ -11,6 +11,7 @@ Startseite mit erstellten Listen und weitere Funktionen:
 <img width="2990" height="1344" alt="Startbildschirm (befüllt)" src="https://github.com/user-attachments/assets/06f0c551-ae25-4715-bd00-5e2e8e1291e0" />
 
 Listenansicht - Listeneinträge erstellen, löschen oder bearbeiten: 
+- löschen entweder per Button oder per Swipe Funktion
 
 <img width="2364" height="1301" alt="Listenansicht - Listeneinträge erstellen" src="https://github.com/user-attachments/assets/996d0aa8-b946-4950-a929-5cf47f9d0e09" />
 
