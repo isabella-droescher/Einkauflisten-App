@@ -1,6 +1,6 @@
-Meine Einkaufslisten App (Update)
+Meine Einkaufslisten App (Update!)
 
-Neues UI/UX Konzept: 
+Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 ---------------------------
 Startseite:
 
