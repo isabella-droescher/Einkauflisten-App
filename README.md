@@ -1,6 +1,6 @@
-Meine Einkaufslisten App
+Meine Einkaufslisten App (Update)
 
-UI/UX Konzept: 
+Neues UI/UX Konzept: 
 ---------------------------
 Startseite:
 
