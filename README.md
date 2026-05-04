@@ -1,4 +1,11 @@
-Meine Einkaufslisten App (Update!)
+Meine Einkaufslisten App
+---------------------------
+
+Realisierung einer Einkaufslisten-App mit React und TypeScript sowie Weiterentwicklung eines nutzerzentrierten UI-Designs mit Figma und Umsetzung mit Flutter/Dart zur Optimierung der mobilen User Experience.
+
+- Technologien: React · TypeScript · Capacitor · Figma · Flutter · Dart
+
+(Update! Mai.2026)
 
 Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 ---------------------------
