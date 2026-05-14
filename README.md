@@ -1,32 +1,43 @@
 # Shopping List App
-
-- Realisierung einer Einkaufslisten-App mit React und TypeScript sowie Weiterentwicklung eines nutzerzentrierten UI-Designs mit Figma und Umsetzung mit Flutter/Dart zur Optimierung der mobilen User Experience.
-- Erweiterung: Mobile Einkaufslisten-App mit Fokus auf intuitive Nutzerführung und moderne Mobile UX
+Weiterentwicklung einer bestehenden Einkaufslisten-Webanwendung durch ein neues UX/UI-Konzept und mobile App-Umsetzung
 
 ## Überblick
-Konzeption und Weiterentwicklung einer mobilen Einkaufslisten-App mit Fokus auf Nutzerfreundlichkeit, klare Interaktionen und konsistente Mobile UI-Komponenten.
+Die bestehende Webanwendung wurde ursprünglich mit React und UnoCSS entwickelt, basierte jedoch nicht auf einem strukturierten UX-Konzept. Ziel des Projekts war die Entwicklung eines konsistenten Mobile- und UI/UX-Konzepts sowie die Umsetzung einer App mit Flutter.
+
+## Problem
+Die bestehende Webanwendung wurde primär technisch umgesetzt, jedoch ohne ausgearbeitetes UX/UI-Konzept. Dadurch bestanden Potenziale zur Verbesserung von Nutzerführung, Konsistenz und mobiler Bedienbarkeit.
+
+- Vorherige Version der Anwendung:
+einkaufsliste-app.vercel.app
 
 ## Ziel
-Entwicklung einer intuitiven App zur Verwaltung von Einkaufslisten mit optimierter User Experience und modernen Mobile-Design-Prinzipien.
+Entwicklung eines nutzerzentrierten UI/UX-Konzepts mit optimierter Informationsstruktur, klaren Interaktionen und moderner Mobile UX.
+
+## Design Fokus 
+Das Redesign fokussiert sich insbesondere auf:
+- klare Interaktionsmuster
+- bessere mobile UX
+- konsistente UI-Komponenten
+- reduzierte visuelle Komplexität
 
 ## Technologien
 React · TypeScript · Capacitor · Figma · Flutter · Dart
 
 ## Meine Rolle
-UI/UX Design · Prototyping · Frontend- & Mobile-Entwicklung
+UI/UX Design · Redesign · Prototyping · Frontend- & Mobile-Entwicklung
 
 ## Prozess
-- Analyse typischer Nutzerinteraktionen bei Einkaufslisten
-- Entwicklung neuer User Flows und UI-Konzepte in Figma
-- Erstellung eines Material 3 basierten Mobile-Designsystems
-- Umsetzung und Weiterentwicklung der App mit Flutter/Dart
+- Analyse der bestehenden Webanwendung
+- Identifikation von UX- und Strukturproblemen
+- Entwicklung neuer User Flows und Mobile-Layouts in Figma
+- Aufbau eines konsistenten Material 3 UI-Konzepts
+- Umsetzung der App mit Flutter/Dart
 
 ## Lösung
-- Übersichtliche Startseite zur schnellen Verwaltung mehrerer Listen
-- Einfache Erstellung, Bearbeitung und Löschung von Listeneinträgen
+- Neustrukturierte Start- und Listenansichten
+- Verbesserte mobile Nutzerführung
 - Swipe-Interaktionen für schnellere Bedienung
-- Konsistente Mobile UI basierend auf Material 3 Komponenten
-
+- Konsistente UI-Komponenten auf Basis von Material 3
 
 # Design Screens (Update! Mai.2026)
 - Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
@@ -52,7 +63,7 @@ UI/UX Design · Prototyping · Frontend- & Mobile-Entwicklung
 <img width="1796" height="1419" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Menuansicht - Alle Einträge löschen.png" />
 
 # Wichtige Erkenntnisse
-Die Kombination aus klarer Informationsstruktur, reduzierter UI-Komplexität und mobilen Interaktionen verbessert die Bedienbarkeit und Effizienz der App deutlich.
+Die Überarbeitung eines bestehenden Produkts zeigte, wie stark ein strukturiertes UX-Konzept die Verständlichkeit, Konsistenz und mobile Nutzbarkeit verbessern kann.
 
 # Hinweis
 Weitere Screens und UI-Konzepte befinden sich im Ordner ui-ux-concept.
