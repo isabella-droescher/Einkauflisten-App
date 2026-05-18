@@ -65,7 +65,7 @@ Der Fokus liegt auf einer intuitiven Bedienung, einer schnellen Navigation sowie
 - Nach dem Klick öffnet sich ein Popup, in dem der Name der Liste eingegeben wird.
 - Nach der Bestätigung wird die neue Liste automatisch erstellt und in der Listenübersicht angezeigt.
 
-<img width="2278" height="1405" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home - Neue Listen erstellen.png" />
+<img width="1814" height="1405" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home - Neue Listen erstellen.png" />
 
 ## Listen löschen (Startseite)
 - Über die Menüoption „Alles löschen“ können sämtliche erstellten Listen mit einem einzigen Schritt vollständig entfernt werden.
