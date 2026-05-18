@@ -117,3 +117,12 @@ Die Überarbeitung eines bestehenden Produkts zeigte, wie stark ein strukturiert
 
 # Hinweis
 Weitere Screens und UI-Konzepte befinden sich im Ordner ui-ux-concept.
+
+# Mögliche Erweiterungen
+
+Die Anwendung ist modular aufgebaut und lässt sich flexibel um weitere Funktionen erweitern. Eine mögliche Erweiterung ist eine eigene Navigation Bar, über die unterschiedliche Bereiche der App direkt erreichbar sind.
+
+Zukünftig könnten neben Einkaufslisten auch weitere Funktionen integriert werden, wie beispielsweise eine To-do-Liste oder ein Notizbereich. Dadurch würde die Anwendung über den reinen Einkaufslisten-Use-Case hinausgehen und zu einem vielseitigen Organisations-Tool weiterentwickelt werden.
+
+
+<img width="1794" height="1234" alt="Erweiterung" src="ui-ux-concept/Erweiterung NavBar (Idee).png" />
