@@ -104,7 +104,7 @@ Dadurch lässt sich die Darstellung der Einträge individuell anpassen und sorgt
 
 <img width="2009" height="1279" alt="Listenansicht" src="ui-ux-concept/Listenansicht - Listeneinträge sortieren.png" />
 
-## Menübar Funktion
+## Menübar Funktion (Alle Listenelemente löschen)
 - Eine zentrale Funktion ist das vollständige Löschen aller Einträge innerhalb einer Liste.
 - Dabei werden alle Listenelemente mit einem einzigen Schritt entfernt, ohne die Liste selbst zu löschen.
 - Nach der Ausführung erscheint eine Snackbar, die den Nutzer darüber informiert, dass alle Inhalte erfolgreich gelöscht wurden.
