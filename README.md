@@ -43,50 +43,72 @@ UI/UX Design · Redesign · Prototyping · Frontend- & Mobile-Entwicklung
 - Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 
 ## Startseite (Liste leer)
- - Klare Einstiegsansicht zur schnellen Erstellung neuer Einkaufslisten. 
+ - Klare Einstiegsansicht zur schnellen Erstellung neuer Einkaufslisten.
+ - Über den Aktionsbutton unten rechts lässt sich mit nur wenigen Klicks eine neue Liste anlegen:
+   - nach dem Öffnen des Popup-Fensters wird der gewünschte Listenname eingegeben und bestätigt
+   - die neue Einkaufsliste wird sofort erstellt und in der Übersicht angezeigt.
+ - Zusätzlich unterstützt ein integrierter Hilfebutton neue Nutzer bei der Bedienung der Anwendung.
+
+Der Fokus liegt auf einer intuitiven Bedienung, einer schnellen Navigation sowie einem modernen und benutzerfreundlichen Workflow.
 
 <img width="1413" height="1346" alt="Startbildschirm (leer) - Neue Liste erstellen" src="ui-ux-concept/Home (leer) - Neue Liste erstellen.png" />
 
 ## Listenübersicht (Startseite)
-- Verwaltung bestehender Listen mit Fokus auf Übersichtlichkeit und schnelle Interaktionen.
+- In der Listenübersicht werden alle erstellten Einkaufslisten zentral angezeigt.
+- Über die integrierte Suchleiste lassen sich Listen schnell und einfach durchsuchen.
+- Zusätzlich bietet die Menüleiste die Möglichkeit, sämtliche Listen mit wenigen Klicks zu löschen.
 
 <img width="2990" height="1344" alt="Startbildschirm (befüllt)" src="ui-ux-concept/Home Überblick (befüllt).png" />
 
-## Listen erstellen (Startseite)
-- Anlegen einer neuen Liste (Schritt für Schritt)
+## Neue Liste hinzufügen (Startseite)
+- Über den Floating-Action-Button unten rechts kann schnell eine neue Einkaufsliste erstellt werden.
+- Nach dem Klick öffnet sich ein Popup, in dem der Name der Liste eingegeben wird.
+- Nach der Bestätigung wird die neue Liste automatisch erstellt und in der Listenübersicht angezeigt.
 
 <img width="2278" height="1405" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home - Neue Listen erstellen.png" />
 
 ## Listen löschen (Startseite)
-- Löschung einer Liste mit einer Swipe Geste nach links oder 
-- Menüoption: Alle Listen löschen = löscht alle angelegten Listen aufeinmal
+- Über die Menüoption „Alles löschen“ können sämtliche erstellten Listen mit einem einzigen Schritt vollständig entfernt werden.
+- Einzelne Listen lassen sich zusätzlich durch eine Swipe-Geste nach links löschen.
+  - Nach dem Löschen erscheint eine Snackbar mit der Option „Rückgängig“, sodass der Vorgang bei Bedarf sofort wieder rückgängig gemacht werden kann.
 
 <img width="1986" height="2457" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home Listen löschen.png" />
 
 
 ## Listenansicht
-- Erstellung, Bearbeitung und Löschung von Einträgen Übersicht.
+- In der Listenansicht werden die Inhalte einer ausgewählten Einkaufsliste übersichtlich dargestellt.
+- Neue Einträge können unkompliziert über ein Textfeld hinzugefügt werden.
+- Bereits erledigte Artikel lassen sich per Checkbox als abgeschlossen markieren und bleiben zur besseren Übersicht weiterhin sichtbar.
 
 <img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht Überblick.png" />
 
 ## Neue Listenelemente erstellen  
-- Anlegen neuer Listeelemente in einer Liste (Schritt für Schritt)
+- Innerhalb einer geöffneten Einkaufsliste können neue Listenelemente schnell und einfach hinzugefügt werden.
+- Der gewünschte Artikel wird in das Eingabefeld eingetragen und anschließend entweder durch Drücken der Enter-Taste oder über das Einkaufswagen-Symbol zur Liste hinzugefügt.
+- Nach dem erfolgreichen Hinzufügen wird eine Snackbar angezeigt, die den Nutzer über das erfolgreiche Hinzufügen des Elements informiert.
 
 <img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht- Neue Listenelemente erstellen.png" />
 
 ## Listenelemente löschen 
-- Löschen von Listenelementen in einer Liste
+- Einzelne Listenelemente können entweder durch eine Swipe-Geste nach links oder über eine Menüoption entfernt werden.
+- Die Bedienung ist intuitiv gestaltet und ermöglicht ein schnelles Bearbeiten der Inhalte direkt innerhalb der Listenansicht.
 
 <img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht - Listeneinträge löschen.png" />
 
 
 ## Listenelemente sortieren 
-- Sortierung von Listenelementen in einer Liste
+- Die Listenelemente innerhalb einer Einkaufsliste können flexibel sortiert werden.
+- Zur Verfügung stehen der Originalzustand sowie eine aufsteigende oder absteigende Sortierung nach Titel oder Erstellungsdatum.
+
+Dadurch lässt sich die Darstellung der Einträge individuell anpassen und sorgt für eine bessere Übersicht sowie eine strukturierte Verwaltung der Inhalte.
 
 <img width="2009" height="1279" alt="Listenansicht" src="ui-ux-concept/Listenansicht - Listeneinträge sortieren.png" />
 
-## Menüansicht
-- Zusätzliche Verwaltungsfunktionen wie das Löschen aller Einträge einer Liste.
+## Menübar Funktion
+- Eine zentrale Funktion ist das vollständige Löschen aller Einträge innerhalb einer Liste.
+- Dabei werden alle Listenelemente mit einem einzigen Schritt entfernt, ohne die Liste selbst zu löschen.
+- Nach der Ausführung erscheint eine Snackbar, die den Nutzer darüber informiert, dass alle Inhalte erfolgreich gelöscht wurden.
+-  Dadurch wird eine klare Rückmeldung über die durchgeführte Aktion sichergestellt und die Bedienung bleibt nachvollziehbar und transparent.
 
 <img width="2265" height="1419" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Menuansicht - Alle Einträge löschen.png" />
 
