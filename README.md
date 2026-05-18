@@ -42,25 +42,53 @@ UI/UX Design · Redesign · Prototyping · Frontend- & Mobile-Entwicklung
 # Design Screens (Update! Mai.2026)
 - Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 
-## Startseite - Neue Liste erstellen
+## Startseite (Liste leer)
  - Klare Einstiegsansicht zur schnellen Erstellung neuer Einkaufslisten. 
 
-<img width="1413" height="1346" alt="Startbildschirm (leer) - Neue Liste erstellen" src="ui-ux-concept/Startbildschirm (leer) - Neue Liste erstellen.png" />
+<img width="1413" height="1346" alt="Startbildschirm (leer) - Neue Liste erstellen" src="ui-ux-concept/Home (leer) - Neue Liste erstellen.png" />
 
-## Startseite - Listenübersicht
+## Listenübersicht (Startseite)
 - Verwaltung bestehender Listen mit Fokus auf Übersichtlichkeit und schnelle Interaktionen.
 
-<img width="2990" height="1344" alt="Startbildschirm (befüllt)" src="ui-ux-concept/Startbildschirm (befüllt).png" />
+<img width="2990" height="1344" alt="Startbildschirm (befüllt)" src="ui-ux-concept/Home Überblick (befüllt).png" />
+
+## Listen erstellen (Startseite)
+- Anlegen einer neuen Liste (Schritt für Schritt)
+
+<img width="2278" height="1405" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home - Neue Listen erstellen.png" />
+
+## Listen löschen (Startseite)
+- Löschung einer Liste mit einer Swipe Geste nach links oder 
+- Menüoption: Alle Listen löschen = löscht alle angelegten Listen aufeinmal
+
+<img width="1986" height="2457" alt="Startbildschirm Listen erstellen" src="ui-ux-concept/Home Listen löschen.png" />
+
 
 ## Listenansicht
-- Erstellung, Bearbeitung und Löschung von Einträgen über Buttons und Swipe-Gesten.
+- Erstellung, Bearbeitung und Löschung von Einträgen Übersicht.
 
-<img width="2364" height="1301" alt="Listenansicht - Listeneinträge erstellen" src="ui-ux-concept/Listenansicht - Listeneinträge erstellen.png" />
+<img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht Überblick.png" />
+
+## Neue Listenelemente erstellen  
+- Anlegen neuer Listeelemente in einer Liste (Schritt für Schritt)
+
+<img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht- Neue Listenelemente erstellen.png" />
+
+## Listenelemente löschen 
+- Löschen von Listenelementen in einer Liste
+
+<img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht - Listeneinträge löschen.png" />
+
+
+## Listenelemente sortieren 
+- Sortierung von Listenelementen in einer Liste
+
+<img width="2009" height="1279" alt="Listenansicht" src="ui-ux-concept/Listenansicht - Listeneinträge sortieren.png" />
 
 ## Menüansicht
 - Zusätzliche Verwaltungsfunktionen wie das Löschen aller Einträge einer Liste.
 
-<img width="1796" height="1419" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Menuansicht - Alle Einträge löschen.png" />
+<img width="2265" height="1419" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Menuansicht - Alle Einträge löschen.png" />
 
 # Wichtige Erkenntnisse
 Die Überarbeitung eines bestehenden Produkts zeigte, wie stark ein strukturiertes UX-Konzept die Verständlichkeit, Konsistenz und mobile Nutzbarkeit verbessern kann.
