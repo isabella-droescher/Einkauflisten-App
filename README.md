@@ -97,8 +97,35 @@ Der Fokus liegt auf einer intuitiven Bedienung, einer schnellen Navigation sowie
 
 
 ## Listenelemente sortieren 
-- Die Listenelemente innerhalb einer Einkaufsliste können flexibel sortiert werden.
-- Zur Verfügung stehen der Originalzustand sowie eine aufsteigende oder absteigende Sortierung nach Titel oder Erstellungsdatum.
+Die Listenelemente innerhalb einer Einkaufsliste können flexibel sortiert werden.
+
+### Zur Verfügung stehen:
+
+#### 1. Sortierung nach Titel
+
+- Original
+   - Neue Einträge werden standardmäßig am Ende der Liste hinzugefügt.
+   - Abgehakte Elemente werden automatisch in einen separaten unteren Bereich verschoben.
+   - Die Reihenfolge der übrigen Elemente bleibt unverändert.
+
+- A–Z (aufsteigend)
+   - Die Liste wird alphabetisch von A bis Z sortiert.
+   - Neue Elemente werden automatisch an der korrekten alphabetischen Position eingefügt.
+
+- Z–A (absteigend)
+   - Die Liste wird alphabetisch von Z bis A sortiert.
+   - Neue Elemente werden automatisch entsprechend der absteigenden Reihenfolge einsortiert.
+
+
+#### 2. Sortierung nach Datum
+
+- Neu-Alt
+   - Die Liste wird nach Erstell- bzw. Hinzufügedatum sortiert, beginnend mit den neuesten Einträgen.
+   - Neue Elemente erscheinen automatisch am Anfang der Liste.
+
+- Alt-Neu
+   - Die Liste wird nach Erstell- bzw. Hinzufügedatum sortiert, beginnend mit den ältesten Einträgen.
+   - Neue Elemente werden automatisch am Ende der Liste einsortiert, wobei abgehakte Elemente weiterhin berücksichtigt bzw. nach unten verschoben werden können.
 
 Dadurch lässt sich die Darstellung der Einträge individuell anpassen und sorgt für eine bessere Übersicht sowie eine strukturierte Verwaltung der Inhalte.
 
