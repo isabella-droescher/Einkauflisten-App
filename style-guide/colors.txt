@@ -1,0 +1,41 @@
+Colors: 
+---------------------------------------
+
+Material 3 Design Kit: 
+--------------------------
+
+Primary: Mittel Grau 
+M3/sys/light/on-surface-variant
+Theme.of(context).colorScheme.onSurfaceVariant 
+
+Secondary: Dunkelgrau/Schwarz 
+M3/sys/light/on-surface
+Theme.of(context).colorScheme.onSurface,
+
+Hintergrundfarbe Weiß (Cards)
+M3/sys/light/on-primary
+Theme.of(context).colorScheme.onPrimary,
+
+Rot (Warnung - Delete)
+M3/sys/light/error
+Theme.of(context).colorScheme.error,
+
+---------------------------------------
+
+Benutzerdefinierte: 
+-------------------------
+
+Tertiary: Hell Creme
+Color.fromRGBO(254, 210, 181, 100),
+
+Buttontextfarbe: Orange Braun
+Color.fromRGBO(193, 116, 65, 1),
+
+Hintergrund: (damit Bild sichtbar)
+Colors.transparent,
+
+Checkbox Color
+Color.fromRGBO(193, 116, 65, 1).withValues(alpha: 0.7);
+
+Textfabe: Checkbox durchstrichen 
+Colors.grey
