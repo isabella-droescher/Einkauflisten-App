@@ -139,6 +139,20 @@ Dadurch lässt sich die Darstellung der Einträge individuell anpassen und sorgt
 
 <img width="2265" height="1419" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Menuansicht - Alle Einträge löschen.png" />
 
+
+## Tageszeitabhängiges Greeting (Feature)
+Die App nutzt ein dynamisches Greeting-System, das sich an der aktuellen Tageszeit
+orientiert.<br> Diese kleine Interaktion verbessert die emotionale Wahrnehmung der Anwendung und sorgt für einen freundlichen ersten Eindruck.<br><br>
+Je nach Uhrzeit wird ein passender Begrüßungstext angezeigt: <br>
+- Guten Morgen von 05:00 - 09:59
+- Schönen Tag von 10:00 - 16:59
+- Guten Abend von 17:00 - 21:59
+- So spät noch wach? von 22:00 - 04:59 
+
+<img width="2391" height="1368" alt="Menuansicht - Alle Einträge löschen" src="ui-ux-concept/Home Tageszeit Greeting.png" />
+
+
+
 # Wichtige Erkenntnisse
 Die Überarbeitung eines bestehenden Produkts zeigte, wie stark ein strukturiertes UX-Konzept die Verständlichkeit, Konsistenz und mobile Nutzbarkeit verbessern kann.
 
