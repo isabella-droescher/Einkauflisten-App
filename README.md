@@ -39,6 +39,13 @@ UI/UX Design · Redesign · Prototyping · Frontend- & Mobile-Entwicklung
 - Swipe-Interaktionen für schnellere Bedienung
 - Konsistente UI-Komponenten auf Basis von Material 3
 
+# Moodboard 
+Das Moodboard übersetzt Ideen und Inspirationen in eine visuelle Sprache.
+Durch die Kombination von Farben, Texturen, Formen und Bildern entsteht eine klare Stimmung, die den Charakter des Projekts vermittelt und den kreativen Entwicklungsprozess leitet.
+
+<img width="400" height="700" alt="Moodboard" src="moodboard/MoodboardS.png" />
+  
+
 # Design Screens (Update! Juli.2026)
 - Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 
