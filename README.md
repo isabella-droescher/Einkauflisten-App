@@ -46,7 +46,7 @@ Durch die Kombination von Farben, Texturen, Formen und Bildern entsteht eine kla
 <img width="400" height="700" alt="Moodboard" src="moodboard/MoodboardS.png" />
   
 
-# Design Screens (Update! Juli.2026)
+# Design Screens (Neuestes Update! Sept.2026)
 - Neues UI/UX Konzept mit Material 3 Design Kit Komponenten: 
 
 ## Startseite (Liste leer)
@@ -85,7 +85,11 @@ Der Fokus liegt auf einer intuitiven Bedienung, einer schnellen Navigation sowie
 ## Listenansicht
 - In der Listenansicht werden die Inhalte einer ausgewählten Einkaufsliste übersichtlich dargestellt.
 - Neue Einträge können unkompliziert über ein Textfeld hinzugefügt werden.
-- Bereits erledigte Artikel lassen sich per Checkbox als abgeschlossen markieren und bleiben zur besseren Übersicht weiterhin sichtbar.
+- Bereits bearbeitete Artikel können per Checkbox als abgeschlossen markiert werden.
+
+- Die Einträge werden automatisch in die Bereiche „Offen“ und „Erledigt“ gruppiert.
+- Beide Bereiche lassen sich ein- und ausklappen. 
+- Dadurch bleiben erledigte Inhalte weiterhin erhalten, ohne bei umfangreichen Listen unnötig viel Platz einzunehmen oder die Übersichtlichkeit zu beeinträchtigen.
 
 <img width="1933" height="1346" alt="Listenansicht" src="ui-ux-concept/Listenansicht Überblick.png" />
 
